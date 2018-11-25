@@ -1,0 +1,23 @@
+#menuSuperior{
+    background-color:#7e649e;
+}
+
+#textoMenuSuperior{
+    color: white;
+}
+
+#boxData{
+    background-color:#cc00ff;
+}
+
+#boxUnidades{
+    background-color: #92cddc;
+}
+
+#boxFaturamento{
+    background-color: #c4d6a0;
+}
+
+#boxProducao{
+    background-color: #f9c499;
+}
